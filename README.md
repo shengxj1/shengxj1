@@ -2,7 +2,9 @@ Front-end open-source enthusiast, passionate about sharing.
 
 Previously employee at Baidu and Huobi.
 
-I’m currently learning AI and Web3, 
+I’m currently learning AI and Web3, contributor of Vue、Vite ,author of element3， love Nuxt、Next、Typescript ...
+
+Working hard to contribute to more open-source projects and create more technical tutorials and articles.
 
 Find me on
 [twitter](https://x.com/shengxj1) 、[youtube](https://www.youtube.com/@shengxj)、[bilibili](https://space.bilibili.com/26995758?)、[telegram](https://t.me/shengxj)
