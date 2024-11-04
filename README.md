@@ -1,3 +1,11 @@
+Front-end open-source enthusiast, passionate about sharing.
+
+Previously employee at Baidu and Huobi.
+
+I’m currently learning AI and Web3, 
+
+
+Previous GitHub account： shengxinjing
 <img width="1292" alt="image" src="https://github.com/user-attachments/assets/77f2b005-750d-488b-a08b-f0707fb12148">
 
 <!--
