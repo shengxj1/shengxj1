@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1292" alt="image" src="https://github.com/user-attachments/assets/77f2b005-750d-488b-a08b-f0707fb12148">
 
 <!--
 **shengxj1/shengxj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
