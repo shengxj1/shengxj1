@@ -6,7 +6,7 @@ I’m currently learning AI and Web3,
 
 
 Previous GitHub account： shengxinjing
-<img width="1292" alt="image" src="https://github.com/user-attachments/assets/77f2b005-750d-488b-a08b-f0707fb12148">
+<img width="1265" alt="image" src="https://github.com/user-attachments/assets/861ba93c-02cd-456c-a176-262895835326">
 
 <!--
 **shengxj1/shengxj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
