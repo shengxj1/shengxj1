@@ -8,6 +8,8 @@ Dedicated to contributing to more open-source projects and creating technical tu
 
 Connect with me on [Twitter](https://x.com/shengxj1) 、[Youtube](https://www.youtube.com/@shengxj)、[Bilibili](https://space.bilibili.com/26995758?) and [Telegram](https://t.me/shengxj).
 
+My courses :[玩转Vue3全家桶](https://time.geekbang.org/column/intro/100094401)
+
 My previous GitHub account ([shengxinjing](https://github.com/shengxinjing)) is currently pending unblock.
 
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/d54e986c-990e-4ceb-b341-f00c78db6a19">
