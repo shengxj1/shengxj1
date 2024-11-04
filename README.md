@@ -8,7 +8,7 @@ Dedicated to contributing to more open-source projects and creating technical tu
 
 Connect with me on [Twitter](https://x.com/shengxj1) 、[Youtube](https://www.youtube.com/@shengxj)、[Bilibili](https://space.bilibili.com/26995758?) and [Telegram](https://t.me/shengxj).
 
-My courses :[玩转Vue3全家桶](https://time.geekbang.org/column/intro/100094401)
+My courses and sharing :[玩转Vue3全家桶](https://time.geekbang.org/column/intro/100094401)，[如何通过Vue生态构建知识体系](https://drive.google.com/file/d/1k93xZc_kBm4gABxApogYA1AdwFm1ut3V/view?usp=sharing)
 
 My previous GitHub account ([shengxinjing](https://github.com/shengxinjing)) is currently pending unblock.
 
