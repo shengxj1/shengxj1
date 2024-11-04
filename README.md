@@ -7,8 +7,9 @@ I’m currently learning AI and Web3,
 Find me on
 [twitter](https://x.com/shengxj1) 、[youtube](https://www.youtube.com/@shengxj)、[bilibili](https://space.bilibili.com/26995758?)、[telegram](https://t.me/shengxj)
 
-Previous GitHub account： shengxinjing
-<img width="1265" alt="image" src="https://github.com/user-attachments/assets/861ba93c-02cd-456c-a176-262895835326">
+Previous GitHub account is currently applying for unblocking.： [shengxinjing](https://github.com/shengxinjing)
+
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/d54e986c-990e-4ceb-b341-f00c78db6a19">
 
 <!--
 **shengxj1/shengxj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
