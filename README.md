@@ -1,15 +1,14 @@
-Front-end open-source enthusiast, passionate about sharing.
+Open-source front-end enthusiast passionate about sharing knowledge.
 
-Previously employee at Baidu and Huobi.
+Previously worked at Baidu and Huobi.
 
-I’m currently learning AI and Web3, contributor of Vue、Vite ,author of element3， love Nuxt、Next、Typescript ...
+Currently diving into AI and Web3; contributor to Vue and Vite, author of Element3, and a fan of Nuxt, Next, and TypeScript.
 
-Working hard to contribute to more open-source projects and create more technical tutorials and articles.
+Dedicated to contributing to more open-source projects and creating technical tutorials and articles.
 
-Find me on
-[twitter](https://x.com/shengxj1) 、[youtube](https://www.youtube.com/@shengxj)、[bilibili](https://space.bilibili.com/26995758?)、[telegram](https://t.me/shengxj)
+Connect with me on [Twitter](https://x.com/shengxj1) 、[Youtube](https://www.youtube.com/@shengxj)、[Bilibili](https://space.bilibili.com/26995758?) and [Telegram](https://t.me/shengxj).
 
-Previous GitHub account is currently applying for unblocking.： [shengxinjing](https://github.com/shengxinjing)
+My previous GitHub account ([shengxinjing](https://github.com/shengxinjing)) is currently pending unblock.
 
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/d54e986c-990e-4ceb-b341-f00c78db6a19">
 
