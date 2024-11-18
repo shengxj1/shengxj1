@@ -1,6 +1,6 @@
 Open-source front-end enthusiast passionate about sharing knowledge.
 
-Previously worked at Baidu and Huobi.
+Previously worked at Baidu and Huobi Crypto Exchange.
 
 Currently diving into AI and Web3; contributor to Vue and Vite, author of Element3, and a fan of Nuxt, Next, and TypeScript.
 
